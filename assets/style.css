@@ -370,6 +370,7 @@ ion-icon {
 }
 
 .text-p-right a:hover {
+        text-decoration: underline;
     opacity: .8
 }
 
